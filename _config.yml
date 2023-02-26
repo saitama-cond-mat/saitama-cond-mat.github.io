@@ -1,4 +1,10 @@
-theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 # Site Settings
-locale                   : "ja"
-title                    : "Shinaoka's Lab"
+locale                   : "en"
+title                    : "Shinaoka Group"
+name                     : "Hiroshi Shinaoka"
+
+# This will require each of these plugins automatically.
+plugins:
+  - jekyll-include-cache
