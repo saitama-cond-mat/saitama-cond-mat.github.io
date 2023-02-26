@@ -1,9 +1,8 @@
-
-# Repositories
+## Repositories
 * [Hiroshi Shinaoka's personal repositories](https://github.com/shinaoka)
 * [SpM-lab](https://github.com/SpM-lab)
 
-# Selected
+## Selected
 
 * [DCore (integrated DMFT software for CORrelated Electrons)](https://github.com/issp-center-dev/DCorehttps://github.com/issp-center-dev/DCore)<br>
 Easy-to-use DMFT software with text and hdf5-based inteface
