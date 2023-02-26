@@ -1,3 +1,15 @@
 main:
   - title: "CV"
     url: /docs/CV
+  - title: "Member"
+    url: /docs/member
+  - title: "Publication"
+    url: /docs/publication
+  - title: "Talk"
+    url: /docs/talk
+  - title: "Software"
+    url: /docs/software
+  - title: "Grant"
+    url: /docs/grant
+  - title: "Teaching"
+    url: /docs/teaching
