@@ -11,14 +11,14 @@
 <img src="kamohara.png"  width="80px">
 
 ### Doctor course
-* 櫻井理人 (Rihito SAKURAI) (D2)
-* 柿澤文哉 (Fumiya KAKIZAWA) (D1)
+* 櫻井理人 (Rihito SAKURAI)
+* 柿澤文哉 (Fumiya KAKIZAWA)
 
 ### Master course
-* 坂上滉太朗 (Koutaro SAKAUE) (M1)
+* 坂上滉太朗 (Koutaro SAKAUE)
 
 ### Undergraduate course
-* 石田洋音 (Hirone ISHIDA) (B4)
+* 石田洋音 (Hirone ISHIDA)
 
 ## Former members
 
