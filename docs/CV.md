@@ -17,8 +17,7 @@ Master course, Department of Applied Physics, University of Tokyo (Superviser: P
 
 Full list: [Japanese](https://researchmap.jp/read0152172/research_experience?lang=ja)/[English](https://researchmap.jp/read0152172/research_experience?lang=en)
 
-* 2023.4.1-: Associate professor (Department of Physics, Saitama University)
-* 2015.10.1-2023.3.31: Assistant professor (Department of Physics, Saitama University)
+* 2015.10.1-: Assistant professor (Department of Physics, Saitama University)
 * 2013.2.11-2015.9.30: Post doc (ETH and University of Fribourg)
 * 2010.4-2013.2.10: Post doc (Nanosystem Research Institute, National Institute of Advanced Industrial Science and Technology)
 * 2009.8-2010.3: Post doc (Institute for Solid State Physics, The University of Tokyo)

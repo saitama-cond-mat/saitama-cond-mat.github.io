@@ -3,7 +3,7 @@
 
 ### Faculty
 
-* 品岡寛 (Hiroshi SHINAOKA) Associate Professor [shinaoka@mail.saitama-u.ac.jp](<mailto:shinaoka@mail.saitama-u.ac.jp>)
+* 品岡寛 (Hiroshi SHINAOKA) Assistant Professor [shinaoka@mail.saitama-u.ac.jp](<mailto:shinaoka@mail.saitama-u.ac.jp>)
 
 ### Secretary
 
