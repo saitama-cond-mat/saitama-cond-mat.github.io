@@ -11,6 +11,8 @@ main:
     url: /docs/software
   - title: "Grant"
     url: /docs/grant
+  - title: "Event"
+    url: /docs/event
   - title: "Thesis"
     url: /docs/thesis
   - title: "Teaching"
