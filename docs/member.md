@@ -1,9 +1,13 @@
 ## Current members
 
 
-### Faculties
+### Faculty
 
-* 品岡寛 (Hiroshi SHINAOKA) Associate Professor
+* 品岡寛 (Hiroshi SHINAOKA) Associate Professor [shinaoka@mail.saitama-u.ac.jp](<mailto:shinaoka@mail.saitama-u.ac.jp>)
+
+### Secretary
+
+* 蒲原桂子 (Keiko KAMOHARA)
 
 ### Doctor course
 * 櫻井理人 (Rihito SAKURAI) (D2)

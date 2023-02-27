@@ -3,4 +3,4 @@ layout: post
 author: Hiroshi Shinaoka
 ---
 
-Write something
+New website opens!
