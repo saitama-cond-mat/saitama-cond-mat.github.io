@@ -7,7 +7,8 @@
 
 ### Secretary
 
-* 蒲原桂子 (Keiko KAMOHARA)
+* 蒲原桂子 (Keiko KAMOHARA)<br>
+<img src="kamohara.png"  width="80px">
 
 ### Doctor course
 * 櫻井理人 (Rihito SAKURAI) (D2)
@@ -16,7 +17,7 @@
 ### Master course
 * 坂上滉太朗 (Koutaro SAKAUE) (M1)
 
-### Undergraduate
+### Undergraduate course
 * 石田洋音 (Hirone ISHIDA) (B4)
 
 ## Former members
