@@ -15,6 +15,7 @@
 * 柿澤文哉 (Fumiya KAKIZAWA)
 
 ### Master course
+* 平出 泰輝 (Taiki HIRADE)
 * 坂上滉太朗 (Koutaro SAKAUE)
 
 ### Undergraduate course
