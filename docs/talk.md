@@ -1,6 +1,6 @@
 ## Upcoming talks
 
-* [物性研究所スパコン共同利用・CCMS合同研究会「計算の時代における物性科学」](https://mdcl.issp.u-tokyo.ac.jp/scc/news/4449)
+* [物性研究所スパコン共同利用・CCMS合同研究会「計算の時代における物性科学」](https://mdcl.issp.u-tokyo.ac.jp/scc/news/4449)[poster](/assets/qtt_issp.pdf)
 * ICIAM 2023 (10th International Congress on Industrial and Applied Mathematics)
   - Minisymposium [Algorithmic advances in computational quantum mechanics](https://iciam2023.org/accepted_ms#00789_Algorithmic_advances_in_computational_quantum_mechanics)
 * ["Quantum Information, Quantum Matter and Quantum Gravity"](https://www2.yukawa.kyoto-u.ac.jp/~qimg2023/), Kyoto, Fall 2023
