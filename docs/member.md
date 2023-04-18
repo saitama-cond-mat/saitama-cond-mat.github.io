@@ -16,11 +16,13 @@
 * 柿澤文哉 (Fumiya KAKIZAWA)
 
 ### Master course
-* 平出 泰輝 (Taiki HIRADE)
+* 平出泰輝 (Taiki HIRADE)
 * 坂上滉太朗 (Koutaro SAKAUE)
+* 石田洋音 (Hirone ISHIDA)
 
 ### Undergraduate course
-* 石田洋音 (Hirone ISHIDA)
+* 佐藤徹音
+* 高橋治利
 
 ## Former members
 
