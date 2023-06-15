@@ -9,7 +9,8 @@
 
 * 蒲原桂子 (Keiko KAMOHARA)<br>
 <img src="kamohara.png"  width="80px">
-* 内野真紀 (Maki Uchino)
+* 内野真紀 (Maki Uchino)<br>
+<img src="uchino.png"  width="70px">
 
 ### Doctor course
 * 櫻井理人 (Rihito SAKURAI)
