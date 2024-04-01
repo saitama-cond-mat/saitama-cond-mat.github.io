@@ -12,18 +12,17 @@
 * 内野真紀 (Maki Uchino)<br>
 <img src="uchino.png"  width="70px">
 
+### Post doc
+* 稲吉健 (Ken INAYOSHI) [学振PD/学術研究員兼任]
+
 ### Doctor course
-* 櫻井理人 (Rihito SAKURAI)
 * 柿澤文哉 (Fumiya KAKIZAWA)
 
 ### Master course
-* 平出泰輝 (Taiki HIRADE)
-* 坂上滉太朗 (Koutaro SAKAUE)
 * 石田洋音 (Hirone ISHIDA)
+* 富田樹 (Tatsuki TOMITA)
 
 ### Undergraduate course
-* 佐藤徹音
-* 高橋治利
 
 ## Former members
 
@@ -35,3 +34,8 @@
 * 比屋根和樹 (Kazuki HIYANE) (M)
 * 神里友一 (Yuuichi KAMIZATO) (M)
 * 近野直也 (Naoya CHIKANO) (D)
+* 平出泰輝 (Taiki HIRADE)
+* 佐藤徹音 (B)
+* 高橋治利 (Haruto TAKAHASHI) (B)
+* 坂上滉太朗 (Koutaro SAKAUE) (M)
+* 櫻井理人 (Rihito SAKURAI) (D) ($\rightarrow$ 東大・藤堂研)
