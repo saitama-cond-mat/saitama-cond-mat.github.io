@@ -35,7 +35,7 @@
 * 神里友一 (Yuuichi KAMIZATO) (M)
 * 近野直也 (Naoya CHIKANO) (D)
 * 平出泰輝 (Taiki HIRADE)
-* 佐藤徹音 (B)
+* 佐藤徹音 (Tooi Sato) (B)
 * 高橋治利 (Haruto TAKAHASHI) (B)
 * 坂上滉太朗 (Koutaro SAKAUE) (M)
 * 櫻井理人 (Rihito SAKURAI) (D) ($\rightarrow$ 東大・藤堂研)
