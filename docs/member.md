@@ -14,6 +14,7 @@
 
 ### Post doc
 * 稲吉健 (Ken INAYOSHI) [学振PD/学術研究員兼任]
+* 道下佳寛 (Yoshihiro MICHISHITA) [PD]
 
 ### Doctor course
 * 柿澤文哉 (Fumiya KAKIZAWA)
