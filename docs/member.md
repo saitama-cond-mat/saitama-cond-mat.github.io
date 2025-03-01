@@ -12,6 +12,10 @@
 * 内野真紀 (Maki Uchino)<br>
 <img src="uchino.png"  width="70px">
 
+### Technical staff
+
+* Satoshi TERASAKI (programmer)
+
 ### Post doc
 * 稲吉健 (Ken INAYOSHI) [学振PD/学術研究員兼任]
 * 道下佳寛 (Yoshihiro MICHISHITA) [PD]
