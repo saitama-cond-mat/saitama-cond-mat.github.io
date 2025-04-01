@@ -13,21 +13,25 @@
 <img src="uchino.png"  width="70px">
 
 ### Technical staff
-
 * Satoshi TERASAKI (programmer)
 
 ### Post doc
-* 稲吉健 (Ken INAYOSHI) [学振PD/学術研究員兼任]
-* 道下佳寛 (Yoshihiro MICHISHITA) [PD]
+* 稲吉健 (Ken INAYOSHI) [特定助教/Program-Specific Assistant Professor]
+* 道下佳寛 (Yoshihiro MICHISHITA) [特定助教/Program-Specific Assistant Professor]
 
 ### Doctor course
-* 柿澤文哉 (Fumiya KAKIZAWA)
+* 石田洋音 (Hirone ISHIDA)
 
 ### Master course
-* 石田洋音 (Hirone ISHIDA)
 * 富田樹 (Tatsuki TOMITA)
+* 柿沼優汰  (旧星野研)
+* 杉山陽一 (旧星野研)
+* 山崎勇輝 (旧星野研)
 
 ### Undergraduate course
+* 櫻庭玲央那
+* 伊藤純也
+* 東川喜斗
 
 ## Former members
 
@@ -44,3 +48,4 @@
 * 高橋治利 (Haruto TAKAHASHI) (B)
 * 坂上滉太朗 (Koutaro SAKAUE) (M)
 * 櫻井理人 (Rihito SAKURAI) (D) (→東大・藤堂研)
+* 柿澤文哉 (Fumiya KAKIZAWA) (D)
