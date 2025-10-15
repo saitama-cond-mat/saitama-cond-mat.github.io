@@ -1,5 +1,6 @@
-
-## 研究室紹介 
+　　　
+## 研究室紹介　
+研究室名をクリックして詳細を表示できます。
 
 ### [品岡研](lab_guide.md)
 <img src="docs/keywords.png" width="100%">

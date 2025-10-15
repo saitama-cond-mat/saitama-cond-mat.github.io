@@ -130,14 +130,16 @@ div.box {
 main {
     flex-basis: 66%;
     background-color: #ffffff;
-    padding: 10px;
+    padding: 10px 20px;
     border-radius: 10px;
 }
 aside {
     flex-basis: 30%;
     background-color: bisque;
     text-align: center;
-    align-content: center;
+    /*align-content: center;*/
+    align-content: flex-start; /* 上寄せ */
+    padding: 40px 20px; 
     border-radius: 10px;
 }
 .scroll-box {
