@@ -1,17 +1,19 @@
 ## Publication
 
+### 品岡研
 * [Researchmap](https://researchmap.jp/read0152172/?lang=english)
 * [Google scholar](http://scholar.google.co.jp/citations?user=NT-EiksAAAAJ)
 * [arXiv](https://arxiv.org/search/?searchtype=author&query=Shinaoka%2C+H)
 * [ORCID](https://orcid.org/0000-0002-7058-8765)
+* [summary of recent work(as of May 2020)](recent_work.pdf)
 
-## Summary of recent work (as of May 2020)
-[pdf](recent_work.pdf)
+### 道下研
+* [Google scholar](https://scholar.google.co.jp/citations?user=VtoUncEAAAAJ&hl=ja)
+* [いくつかの論文の日本語紹介](./../works.html)
+
 
 
 ## Review articles in Japanese
-
-
 
 * 「Quantics tensor train に基づく多スケール時空仮説と場の量子論」、品岡寛、村上雄太、野垣康介、櫻井理人、日本物理学会誌2024年2月号 「最近の研究から」<a href="/assets/qtt_jps_202402.pdf">出版予定原稿</a>
 * 「温度グリーン関数の情報圧縮に基づく高速量子多体計算法」、品岡 寛、近野直也、野本拓也、大槻純也、吉見一慶、固体物理No.6 (通巻664号) [トピックス]（2021年6月）<a href="/assets/kotai2021.pdf">出版予定原稿</a>

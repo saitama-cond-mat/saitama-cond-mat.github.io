@@ -4,6 +4,7 @@
 ### Faculty
 
 * 品岡寛 (Hiroshi SHINAOKA) Associate Professor [shinaoka@mail.saitama-u.ac.jp](<mailto:shinaoka@mail.saitama-u.ac.jp>)
+* 道下佳寛 (Yoshihiro MICHISHITA) Assistant Professor　[michishita@mail.saitama-u.ac.jp](<mailto:michishita@mail.saitama-u.ac.jp>)
 
 ### Secretary
 
@@ -17,7 +18,7 @@
 
 ### Post doc
 * 稲吉健 (Ken INAYOSHI) [特定助教/Program-Specific Assistant Professor]
-* 道下佳寛 (Yoshihiro MICHISHITA) [特定助教/Program-Specific Assistant Professor]
+
 
 ### Doctor course
 * 石田洋音 (Hirone ISHIDA)
