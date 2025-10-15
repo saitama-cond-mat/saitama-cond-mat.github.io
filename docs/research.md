@@ -9,7 +9,7 @@
 
 ### 道下研
 * [Google scholar](https://scholar.google.co.jp/citations?user=VtoUncEAAAAJ&hl=ja)
-* [いくつかの論文の日本語紹介](./../works.html)
+* [いくつかの論文の日本語紹介](./works.html)
 
 
 
