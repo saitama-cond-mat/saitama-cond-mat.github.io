@@ -2,8 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
 locale                   : "en"
-title                    : "Shinaoka Group"
-name                     : "Hiroshi Shinaoka"
+title                    : "Condensed Matter Group"
+name                     : "Hiroshi Shinaoka & Yoshihiro Michishita"
 
 # This will require each of these plugins automatically.
 plugins:
