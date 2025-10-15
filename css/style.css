@@ -99,7 +99,7 @@ details {
     padding: 10px;
 }
 summary {
-    list-style-image: url("../docs/amuro3.png");
+    list-style-image: url("docs/amuro3.png");
     font-family: 'Lato', 'Meiryo';
     font-size: larger;
     font-weight: bold;
@@ -114,7 +114,7 @@ summary {
     text-align: center;
 }
 summary::-webkit-details-marker {
-    background: url("../docs/amuro3.png") no-repeat center/6px;
+    background: url("docs/amuro3.png") no-repeat center/6px;
     color: transparent;
 }
 div.head {
