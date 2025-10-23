@@ -2,6 +2,7 @@
 
 
 # News
+<html lang="ja">
 <details>
 <summary><span style="font-size: 21px;">2025年度</span></summary>
 
@@ -14,7 +15,7 @@
 　
 
 <br><br><br>
-　
+</html>
 　
 
 
