@@ -8,3 +8,6 @@ name                     : "Hiroshi Shinaoka & Yoshihiro Michishita"
 # This will require each of these plugins automatically.
 plugins:
   - jekyll-include-cache
+
+kramdown:
+  parse_block_html: true
