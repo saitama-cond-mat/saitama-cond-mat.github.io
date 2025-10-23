@@ -9,12 +9,14 @@
 - <span style="font-size: 18px;">10/06~10: [International workshop on tensor cross interpolation and other algorithms for learning tensor networks  ](https://tensornetworks.sciencesconf.org/)を共催しました。<span>
 - <span style="font-size: 18px;">10/01: 道下が助教として着任しました。<span>
 - <span style="font-size: 18px;">07/22: [石田くん(D1)の論文](https://journals.aps.org/prl/abstract/10.1103/tkcp-p5br)がPRLでpublishされました。<span>
-
-
 </details>
 
+　
 
 <br><br><br>
+　
+　
+
 
 研究室名をクリックすると個別のページに飛びます。
 # [品岡研](https://shinaoka.github.io/)
